@@ -1,6 +1,6 @@
 # npmtest-msgpack-lite
 
-#### test coverage for  [msgpack-lite (v0.1.26)](https://github.com/kawanet/msgpack-lite)  [![npm package](https://img.shields.io/npm/v/npmtest-msgpack-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-msgpack-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-msgpack-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-msgpack-lite)
+#### basic test coverage for  [msgpack-lite (v0.1.26)](https://github.com/kawanet/msgpack-lite)  [![npm package](https://img.shields.io/npm/v/npmtest-msgpack-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-msgpack-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-msgpack-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-msgpack-lite)
 
 #### Fast Pure JavaScript MessagePack Encoder and Decoder
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-msgpack-lite/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-msgpack-lite/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-msgpack-lite/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-msgpack-lite/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-msgpack-lite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-msgpack-lite/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-msgpack-lite/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-msgpack-lite/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-msgpack-lite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-msgpack-lite/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-msgpack-lite/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-msgpack-lite/build/coverage.html/index.html)
 
